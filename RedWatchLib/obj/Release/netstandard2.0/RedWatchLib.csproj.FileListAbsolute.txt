@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\bin\Release\netstandard2.0\RedWatchLib.deps.json
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\bin\Release\netstandard2.0\RedWatchLib.dll
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\bin\Release\netstandard2.0\RedWatchLib.pdb
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\obj\Release\netstandard2.0\RedWatchLib.csprojAssemblyReference.cache
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\obj\Release\netstandard2.0\RedWatchLib.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\obj\Release\netstandard2.0\RedWatchLib.AssemblyInfo.cs
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\obj\Release\netstandard2.0\RedWatchLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\obj\Release\netstandard2.0\RedWatchLib.dll
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchLib\obj\Release\netstandard2.0\RedWatchLib.pdb

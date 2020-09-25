@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchDB\bin\Debug\RedWatchDB.dacpac
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchDB\bin\Debug\RedWatchDB.dll
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchDB\bin\Debug\RedWatchDB.pdb
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchDB\obj\Debug\RedWatchDB.sqlprojAssemblyReference.cache
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchDB\obj\Debug\RedWatchDB.dll
+C:\Users\User\Desktop\RedWatch\RedWatchServer\RedWatchDB\obj\Debug\RedWatchDB.pdb
